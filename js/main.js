@@ -45,7 +45,7 @@ let portfolio =[
     description: 'Semicolon count badge from a single file in GitHub repository',
     techused: 'PHP, JavaScript',
     source: 'https://github.com/gogorikidze/Semicolon-count-badge',
-    view: 'http://gogorikidze.com/semicolon/'
+    view: 'https://gscb.000webhostapp.com/'
   },
 
   //commision
