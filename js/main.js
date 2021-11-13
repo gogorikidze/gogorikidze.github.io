@@ -6,7 +6,7 @@ let portfolio =[
     name:'Orb Search Engine',
     description: 'Search Engine for free Books in online repositories',
     techused: 'Node,Cheerio,Express,Puppeteer,PlayWright',
-    view: 'http://orb.ge/',
+    view: 'https://orb-two.vercel.app/',
     source: 'https://github.com/gogorikidze/Orb'
   },
   {
